@@ -1,0 +1,512 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /home/ashutosh/react-native-recycler-list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/ashutosh/react-native-recycler-list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/ashutosh/react-native-recycler-list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /home/ashutosh/react-native-recycler-list/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /home/ashutosh/react-native-recycler-list/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/072bd4a59af09deca676a945f318947a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e3d9e803ecee0d82dc8665ee82a3209d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/58db84935533797eda1edd8d325772ee/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /home/ashutosh/react-native-recycler-list/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /home/ashutosh/react-native-recycler-list/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /home/ashutosh/react-native-recycler-list/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /home/ashutosh/react-native-recycler-list/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /home/ashutosh/react-native-recycler-list/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /home/ashutosh/react-native-recycler-list/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /home/ashutosh/react-native-recycler-list/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /home/ashutosh/react-native-recycler-list/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /home/ashutosh/react-native-recycler-list/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/161d9a605821ab4f0c344626c7481815/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/e3c339f3bcace99935fa3418c6bf930b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/726c2d277e72aa863029ddbe140ec8d6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/54e74f984bfd4d1300c5a340a300488e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/3febc75f835e1de1525296b47355dcfe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/396844b2597df8a180f4019c7b141261/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/198f0a31f9af514f9e704e7391cc894f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d2a569be1811b8b20ae9c76843e564b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2f00fea7739480dab40445f800527d2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/b3161c7fcaa8592388d173e27cf65652/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/5e0eeac884882b8aa355ff6cb494a488/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/d72b662a6ca78ad37f71fad371de5b53/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/4131bf7697b38535a0e05ed8fe923f84/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/bc5eb63ee59b1a82dd3656d315c1e371/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/8edaed593054de30fa089a156b712728/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/4fd71d95af0f1659e4a2e52b9b6a53e0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/54ab18b7433068edc530d99e7eabb9ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9eae1cbe685558140635d37740e0151f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/802bdc7202bfe3ed69b981f6badb893e/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/bdc6c756bfd762a3c345ee57054c2c95/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8ff92182f41700e287084eaa554487bf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/a37c09df8a3c03a3a85c56db65c2d061/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/998a797e3dbe6b16d0c7b5800a2e07f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e9bef904ddc33ed6f7682c0541871f89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/52ceec23a0b7a0d0deb9470f2ce76979/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/292fef798c751dea733fe99fc943210a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/386bf7c076f79c144f2bba92960d7ec9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4b32fdd14375e21ef23af66ff3a4b160/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7650fb7901d5dfba74f00e214db3d973/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e0d00d3648c8f20a25b285e58730e65d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/76dc47c911693f4425a3f59095707464/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/6968b909849c138519716b15f916fef2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0eae2eb912995e27ac6dd11eef63de61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/513b52747e87ec7568a1ef3e5a856ea0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a5e96722ab44e0744a3c7c4bf576ff29/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1aeb5367202b00ae46d8c22bbe491b6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7215faab9dc600a70e9ab19ce30460c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0ad485424de36a4da374de5bdc9f2145/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/8b87f2a7350863e7fdb58d84d695ffb4/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/9e081988728fad20117085df607ca0be/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/241b0ff5011dffb9c2e80b395a4ff586/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ffb08407cbd52742cf51e1db309ba238/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/3ff1c956c864ffbee21d8e982d8b0d47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/594d24b9fcc6099fa9d9b652c15122d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/115af468eda240345ca4c4f774614718/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/60853fcf8c0cd91c9ca244d0fddc9dea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/35abcb83d46a711564d61ea10f3c8799/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f968284562b62e496f4f1bec9aa93e69/AndroidManifest.xml:17:1-22:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/d669d745bb57e8919558463e4e78277f/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/072bd4a59af09deca676a945f318947a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/072bd4a59af09deca676a945f318947a/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e3d9e803ecee0d82dc8665ee82a3209d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e3d9e803ecee0d82dc8665ee82a3209d/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/e3c339f3bcace99935fa3418c6bf930b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/e3c339f3bcace99935fa3418c6bf930b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/726c2d277e72aa863029ddbe140ec8d6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/726c2d277e72aa863029ddbe140ec8d6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/54e74f984bfd4d1300c5a340a300488e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/54e74f984bfd4d1300c5a340a300488e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9eae1cbe685558140635d37740e0151f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9eae1cbe685558140635d37740e0151f/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/802bdc7202bfe3ed69b981f6badb893e/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/802bdc7202bfe3ed69b981f6badb893e/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/bdc6c756bfd762a3c345ee57054c2c95/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/bdc6c756bfd762a3c345ee57054c2c95/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a5e96722ab44e0744a3c7c4bf576ff29/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a5e96722ab44e0744a3c7c4bf576ff29/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/8b87f2a7350863e7fdb58d84d695ffb4/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/8b87f2a7350863e7fdb58d84d695ffb4/AndroidManifest.xml:24:5-25:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a5e96722ab44e0744a3c7c4bf576ff29/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.reactnativerecyclerlist.MainActivity
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /home/ashutosh/react-native-recycler-list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/ashutosh/react-native-recycler-list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/ashutosh/react-native-recycler-list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/ashutosh/react-native-recycler-list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/ashutosh/react-native-recycler-list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/ashutosh/react-native-recycler-list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/ashutosh/react-native-recycler-list/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/ashutosh/react-native-recycler-list/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/ashutosh/react-native-recycler-list/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/ashutosh/react-native-recycler-list/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/072bd4a59af09deca676a945f318947a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/072bd4a59af09deca676a945f318947a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e3d9e803ecee0d82dc8665ee82a3209d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/e3d9e803ecee0d82dc8665ee82a3209d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/58db84935533797eda1edd8d325772ee/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/58db84935533797eda1edd8d325772ee/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /home/ashutosh/react-native-recycler-list/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/ashutosh/react-native-recycler-list/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/ashutosh/react-native-recycler-list/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/ashutosh/react-native-recycler-list/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/ashutosh/react-native-recycler-list/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /home/ashutosh/react-native-recycler-list/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /home/ashutosh/react-native-recycler-list/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/ashutosh/react-native-recycler-list/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/ashutosh/react-native-recycler-list/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /home/ashutosh/react-native-recycler-list/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/ashutosh/react-native-recycler-list/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /home/ashutosh/react-native-recycler-list/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/ashutosh/react-native-recycler-list/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /home/ashutosh/react-native-recycler-list/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/ashutosh/react-native-recycler-list/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /home/ashutosh/react-native-recycler-list/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/ashutosh/react-native-recycler-list/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/ashutosh/react-native-recycler-list/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/ashutosh/react-native-recycler-list/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/161d9a605821ab4f0c344626c7481815/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/161d9a605821ab4f0c344626c7481815/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/e3c339f3bcace99935fa3418c6bf930b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/e3c339f3bcace99935fa3418c6bf930b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/726c2d277e72aa863029ddbe140ec8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/726c2d277e72aa863029ddbe140ec8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/54e74f984bfd4d1300c5a340a300488e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/54e74f984bfd4d1300c5a340a300488e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/3febc75f835e1de1525296b47355dcfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/3febc75f835e1de1525296b47355dcfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/396844b2597df8a180f4019c7b141261/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/396844b2597df8a180f4019c7b141261/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/198f0a31f9af514f9e704e7391cc894f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/198f0a31f9af514f9e704e7391cc894f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d2a569be1811b8b20ae9c76843e564b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d2a569be1811b8b20ae9c76843e564b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2f00fea7739480dab40445f800527d2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/2f00fea7739480dab40445f800527d2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/b3161c7fcaa8592388d173e27cf65652/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/b3161c7fcaa8592388d173e27cf65652/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/5e0eeac884882b8aa355ff6cb494a488/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/5e0eeac884882b8aa355ff6cb494a488/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/d72b662a6ca78ad37f71fad371de5b53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/d72b662a6ca78ad37f71fad371de5b53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/4131bf7697b38535a0e05ed8fe923f84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/4131bf7697b38535a0e05ed8fe923f84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/bc5eb63ee59b1a82dd3656d315c1e371/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/bc5eb63ee59b1a82dd3656d315c1e371/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/8edaed593054de30fa089a156b712728/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/8edaed593054de30fa089a156b712728/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/4fd71d95af0f1659e4a2e52b9b6a53e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/4fd71d95af0f1659e4a2e52b9b6a53e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/54ab18b7433068edc530d99e7eabb9ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/54ab18b7433068edc530d99e7eabb9ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9eae1cbe685558140635d37740e0151f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/9eae1cbe685558140635d37740e0151f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/802bdc7202bfe3ed69b981f6badb893e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/802bdc7202bfe3ed69b981f6badb893e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/bdc6c756bfd762a3c345ee57054c2c95/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/bdc6c756bfd762a3c345ee57054c2c95/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8ff92182f41700e287084eaa554487bf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8ff92182f41700e287084eaa554487bf/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/a37c09df8a3c03a3a85c56db65c2d061/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/a37c09df8a3c03a3a85c56db65c2d061/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/998a797e3dbe6b16d0c7b5800a2e07f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/998a797e3dbe6b16d0c7b5800a2e07f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e9bef904ddc33ed6f7682c0541871f89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/e9bef904ddc33ed6f7682c0541871f89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/52ceec23a0b7a0d0deb9470f2ce76979/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/52ceec23a0b7a0d0deb9470f2ce76979/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/292fef798c751dea733fe99fc943210a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/292fef798c751dea733fe99fc943210a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/386bf7c076f79c144f2bba92960d7ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/386bf7c076f79c144f2bba92960d7ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4b32fdd14375e21ef23af66ff3a4b160/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4b32fdd14375e21ef23af66ff3a4b160/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7650fb7901d5dfba74f00e214db3d973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7650fb7901d5dfba74f00e214db3d973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e0d00d3648c8f20a25b285e58730e65d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e0d00d3648c8f20a25b285e58730e65d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/76dc47c911693f4425a3f59095707464/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/76dc47c911693f4425a3f59095707464/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/6968b909849c138519716b15f916fef2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/6968b909849c138519716b15f916fef2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0eae2eb912995e27ac6dd11eef63de61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0eae2eb912995e27ac6dd11eef63de61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/513b52747e87ec7568a1ef3e5a856ea0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/513b52747e87ec7568a1ef3e5a856ea0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a5e96722ab44e0744a3c7c4bf576ff29/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/a5e96722ab44e0744a3c7c4bf576ff29/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1aeb5367202b00ae46d8c22bbe491b6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1aeb5367202b00ae46d8c22bbe491b6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7215faab9dc600a70e9ab19ce30460c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7215faab9dc600a70e9ab19ce30460c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0ad485424de36a4da374de5bdc9f2145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0ad485424de36a4da374de5bdc9f2145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/8b87f2a7350863e7fdb58d84d695ffb4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/8b87f2a7350863e7fdb58d84d695ffb4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/9e081988728fad20117085df607ca0be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/9e081988728fad20117085df607ca0be/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/241b0ff5011dffb9c2e80b395a4ff586/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/241b0ff5011dffb9c2e80b395a4ff586/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ffb08407cbd52742cf51e1db309ba238/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/ffb08407cbd52742cf51e1db309ba238/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/3ff1c956c864ffbee21d8e982d8b0d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/3ff1c956c864ffbee21d8e982d8b0d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/594d24b9fcc6099fa9d9b652c15122d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/594d24b9fcc6099fa9d9b652c15122d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/115af468eda240345ca4c4f774614718/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/115af468eda240345ca4c4f774614718/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/60853fcf8c0cd91c9ca244d0fddc9dea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/60853fcf8c0cd91c9ca244d0fddc9dea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/35abcb83d46a711564d61ea10f3c8799/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/35abcb83d46a711564d61ea10f3c8799/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f968284562b62e496f4f1bec9aa93e69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f968284562b62e496f4f1bec9aa93e69/AndroidManifest.xml:20:5-44
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/d669d745bb57e8919558463e4e78277f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/d669d745bb57e8919558463e4e78277f/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ashutosh/react-native-recycler-list/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /home/ashutosh/react-native-recycler-list/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /home/ashutosh/react-native-recycler-list/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e18a4e4c7237c99fe07801492f2b698a/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/bf5628ff76ab11febea790651a93146e/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /home/ashutosh/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/5a525596419470f86e72d3cc4bdd791a/AndroidManifest.xml:26:13-120
